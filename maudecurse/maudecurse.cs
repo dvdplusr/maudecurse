@@ -1,0 +1,1 @@
+html{cursor:none}.cursor{width:14px;height:22px;background-image:url("leaf.png");position:absolute;transform:translate(-50%,-50%);pointer-events:none}.mouse-down{background-image:url("pressleaf.png")}
